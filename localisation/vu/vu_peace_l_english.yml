@@ -1,8 +1,8 @@
 ﻿l_english:
- vu_civilwar_full_annex: "Аннексия"
- vu_civilwar_full_annex_desc: "@[Root.GetTag] §Y[Root.GetName]§! полностью аннексирует @[From.GetTag] §Y[From.GetName]§!."
- PEACE_vu_civilwar_full_annex: "Реформировать Унию"
- PEACE_po_hre_claim_electorate: "Потребовать статус курфюрста"
+ vu_civilwar_full_annex: "°°¬ª¾"
+ vu_civilwar_full_annex_desc: "@[Root.GetTag] §Y[Root.GetName]§! ±®°²¿½ °°¬ª³² @[From.GetTag] §Y[From.GetName]§!."
+ PEACE_vu_civilwar_full_annex: "Ð´¯ª¢²¿ ‹°ª½"
+ PEACE_po_hre_claim_electorate: "‰²¡¢²¿ ²²³ ¬³´½²"
  
  
 
